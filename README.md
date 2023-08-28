@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Computer engineering and AI
 - 📫 How to reach me
 - my email  : jmethsahan@gmail.com
-- my phone number : + 94770515193
+- my phone number : [!Href="tel: +94770515193"]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+App+Developer;Graphic+Designer;Animated+Video+Editor;Micro+controller+Chip+Programmer)](https://git.io/typing-svg)
 <!---
